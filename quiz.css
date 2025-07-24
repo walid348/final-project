@@ -1,0 +1,9 @@
+samp{
+    font-size: 1rem;
+}
+body{
+    display: flex;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/2560px-Flag_of_Tunisia.svg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
